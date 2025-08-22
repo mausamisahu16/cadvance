@@ -36,7 +36,8 @@ Cadvance is a research-driven project that integrates **biological, environmenta
 - **Mobile/Cloud Integration** for real-time health tracking.
 
 ## License
-[MIT License](LICENSE)
+This project is **proprietary**. All rights reserved.  
+No part of this repository may be used without explicit permission from the author.
 
 ## Contact
 **Name** – Mausami Sahu  
